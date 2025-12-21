@@ -15,7 +15,7 @@
 <p align="left">M20 , CSE <br><br>sometimes write philosophy and poems</p>
 <p align="center">
   <a href="https://hacktoberfest.com/profile">
-    <img src="https://assets.hacktoberfest.com/badges/2025/hacktoberfest2025.svg" width="300" />
+    <img src="lvl0-alien.webp" width="300" />
   </a>
 </p>
 
