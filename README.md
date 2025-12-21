@@ -13,7 +13,11 @@
 ###
 
 <p align="left">M20 , CSE <br><br>sometimes write philosophy and poems</p>
-[![Hacktoberfest 2025](https://assets.hacktoberfest.com/badges/2025/hacktoberfest2025.svg)](https://hacktoberfest.com/profile)
+<p align="center">
+  <a href="https://hacktoberfest.com/profile">
+    <img src="https://assets.hacktoberfest.com/badges/2025/hacktoberfest2025.svg" width="300" />
+  </a>
+</p>
 
 
 ###
