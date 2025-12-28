@@ -15,11 +15,6 @@
 <img align="right" height="200" src="Mukul.png"  />
 
 ###
-<p align="center">
-  <a href="https://hacktoberfest.com/profile">
-    <img src="lvl0-alien.webp" width="300" />
-  </a>
-</p>
 <br clear="both">
 
 <h2 align="left">I code with</h2>
