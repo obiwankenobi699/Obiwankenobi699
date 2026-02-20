@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">M20 , CSE <br><br>sometimes write philosophy and poems</p>
+<p align="left">  <br><br>sometimes write philosophy and poems</p>
 
 ###
 
