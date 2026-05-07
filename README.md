@@ -1,4 +1,4 @@
-<img src="Banner.png" width="100%" alt="Obi Banner" />
+<img src="Banner1.png" width="100%" alt="Obi Banner" />
 
 <br>
 
