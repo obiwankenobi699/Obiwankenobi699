@@ -2,7 +2,7 @@
   <img src="Banner1.png" width="100%" alt="Obi Banner" />
 </div>
 
----
+<br><br>
 
 <h2 align="center">Know About Me</h2>
 
