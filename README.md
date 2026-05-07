@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i1-e.pinimg.com/736x/74/0b/5c/740b5c8b07db91a07ad56a4e6989fc4d.jpg" width="100%" alt="Obi Banner" />
-</div>
+<img src="Banner.png" width="100%" alt="Obi Banner" />
 
 <br>
 
