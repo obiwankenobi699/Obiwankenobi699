@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="right" height="200" src="https://your-image-url-here/Mukul.png" alt="Obi's photo" />
+<img align="right" height="200" src="Mukul.png" alt="Obi's photo" />
 
 ---
 
