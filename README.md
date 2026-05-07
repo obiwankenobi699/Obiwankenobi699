@@ -21,7 +21,7 @@ I'm a full-stack developer and ML engineer with an obsession for building system
 </tr>
 </table>
 
----
+<br><br>
 
 <h2 align="center">Top Projects <sub>(built to avoid manual labor)</sub></h2>
 
@@ -42,7 +42,7 @@ I'm a full-stack developer and ML engineer with an obsession for building system
 </tr>
 </table>
 
----
+<br><br>
 
 <h2 align="center">Connect</h2>
 
@@ -61,7 +61,7 @@ I'm a full-stack developer and ML engineer with an obsession for building system
 
 > *Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.*
 
----
+<br><br>
 
 <h2 align="center">Contribution</h2>
 
