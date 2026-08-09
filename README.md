@@ -64,6 +64,12 @@ I'm a full‑stack developer and ML engineer with an obsession for building syst
 
 <br>
 
+<h2 align="center">Open Source</h2>
+
+I contribute fixes and improvements to projects I use, including [Obsidian Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks), an Obsidian plugin for managing tasks in Markdown.
+
+<br>
+
 > *Code is never finished. It only becomes slightly less terrible over time.*
 
 > *Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.*
