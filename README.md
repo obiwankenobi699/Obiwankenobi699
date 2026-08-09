@@ -30,6 +30,17 @@ I'm a full‑stack developer and ML engineer with an obsession for building syst
 
 <br><br>
 
+<h2 align="center">Focus Areas</h2>
+
+<ul>
+  <li>Production-ready full-stack web applications</li>
+  <li>End-to-end machine-learning pipelines and offline vision systems</li>
+  <li>Python automation for repetitive workflows</li>
+  <li>Linux customization and reliable developer tooling</li>
+</ul>
+
+<br><br>
+
 <h2 align="center">Top Projects <sub>(built to avoid manual labor)</sub></h2>
 
 <table>
