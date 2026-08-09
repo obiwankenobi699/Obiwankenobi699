@@ -36,11 +36,14 @@ I'm a full‑stack developer and ML engineer with an obsession for building syst
 <tr>
 <td valign="top">
 
-[![neural-vault](https://img.shields.io/badge/NEURAL--VAULT-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/obiwankenobi699/neural-vault) &nbsp; Obsidian‑powered second brain — because keeping knowledge in my head is a single point of failure.
+[![neural-vault](https://img.shields.io/badge/NEURAL--VAULT-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/obiwankenobi699/neural-vault)<br>
+Obsidian‑powered second brain — because keeping knowledge in my head is a single point of failure.
 
-[![Nazarai-offline-llava](https://img.shields.io/badge/NAZARAI--OFFLINE--LLAVA-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/obiwankenobi699/Nazarai-offline-llava-) &nbsp; Real‑time surveillance LLM — vision intelligence, fully offline, because the cloud can't be trusted.
+[![Nazarai-offline-llava](https://img.shields.io/badge/NAZARAI--OFFLINE--LLAVA-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/obiwankenobi699/Nazarai-offline-llava-)<br>
+Real‑time surveillance LLM — vision intelligence, fully offline, because the cloud can't be trusted.
 
-[![hyprland.config](https://img.shields.io/badge/HYPRLAND.CONFIG-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/obiwankenobi699/hyprland.config) &nbsp; My Hyprland configuration. Pixel‑perfect or completely broken — there is no in‑between.
+[![hyprland.config](https://img.shields.io/badge/HYPRLAND.CONFIG-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/obiwankenobi699/hyprland.config)<br>
+My Hyprland configuration. Pixel‑perfect or completely broken — there is no in‑between.
 
 </td>
 <td width="200" align="center" valign="top">
