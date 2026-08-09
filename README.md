@@ -4,6 +4,13 @@
 
 <br><br>
 
+<p align="center">
+  <a href="#know-about-me">About</a> ·
+  <a href="#top-projects-built-to-avoid-manual-labor">Projects</a> ·
+  <a href="#connect">Connect</a> ·
+  <a href="#contribution">Contributions</a>
+</p>
+
 <h2 align="center">Know About Me</h2>
 
 <table>
